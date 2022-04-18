@@ -8,3 +8,4 @@ custom module set
 * 처리 process 는 다음과 같습니다.
 * 먼저, meta information 을 저장하는 부분을 제거합니다.
 * 이후, 데이터에 해당하는 부분만 추출하여 tsv파일 형태로 저장합니다.
+* TO-DO 데이터에 따른 예외처리
